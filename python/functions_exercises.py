@@ -1,3 +1,4 @@
+"""
 print("Checking the weather for you!")
 
 def weather_check():
@@ -5,3 +6,5 @@ def weather_check():
   print("False Alarm, the weather changed! There is a thunderstorm approaching. Cancel your plans and stay inside.")
 
 weather_check()
+
+"""
