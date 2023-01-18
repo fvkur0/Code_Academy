@@ -1,3 +1,3 @@
 # Code_Academy
 
-this is where the magic happens
+Saving all my progress through Code Academy here
