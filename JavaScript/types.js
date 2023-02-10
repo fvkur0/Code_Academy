@@ -37,7 +37,7 @@ console.log(selectedColors.length);
 // Perform a task 
 
 function greet(name, lastName) {
-    console.log('Hello Motherfucker ' + name + lastName);
+    console.log('Have a good day ' + name + lastName);
 }
 
 greet('Pat', ' M');
