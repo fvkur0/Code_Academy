@@ -1,2 +1,1 @@
-#notes
-
+# Scratchpad for testing scripts
